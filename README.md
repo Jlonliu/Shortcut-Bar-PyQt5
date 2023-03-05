@@ -9,3 +9,5 @@ A software for open file or folder quickly.
 - mytest.qss： qss文件
 - Icon.ico: 图标文件
 - datapath.txt: 路径文件
+# 使用方法
+- 运行shortbar.py后，显示窗口后，鼠标悬停在按钮上以获取按钮功能介绍，遵循按钮指示使用。
