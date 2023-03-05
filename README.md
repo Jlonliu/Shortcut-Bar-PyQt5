@@ -1,7 +1,7 @@
 # Shortcut-Bar-PyQt5
 A software for open file or folder quickly.
 
-#文件说明
+# 文件说明
 - shortcutbar.py：运行程序
 - mfr: 自定义python函数库
 - qmfr: 自定义pyQt5函数库
